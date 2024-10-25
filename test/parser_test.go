@@ -6,7 +6,7 @@ import (
 
 	"testing"
 
-	"github.com/seanbreckenridge/spkglist/src/parser"
+	"github.com/purarue/spkglist/src/parser"
 )
 
 func runParser(contents string) []string {

@@ -9,7 +9,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/seanbreckenridge/spkglist/src/parser"
+	"github.com/purarue/spkglist/src/parser"
 )
 
 type Packages []string

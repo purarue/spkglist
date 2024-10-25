@@ -28,7 +28,7 @@ python3
 ### Install
 
 ```
-go get github.com/seanbreckenridge/spkglist/cmd/spkglist
+go get github.com/purarue/spkglist/cmd/spkglist
 ```
 
 ```
@@ -86,7 +86,7 @@ for lib in $(spkglist /path/to/package/list); do
 done
 ```
 
-For more examples, you can see my usage in my system bootstrap script [here](https://github.com/seanbreckenridge/dotfiles/blob/7c570944b244986d2837ffa935ff8efd7e7f4543/.config/yadm/computer_bootstrap#L37-L103), corresponding package lists [here](https://github.com/seanbreckenridge/dotfiles/tree/baf92d5fed00b87167b509f22d439c5e2075f63b/.config/yadm/package_lists).
+For more examples, you can see my usage in my system bootstrap script [here](https://github.com/purarue/dotfiles/blob/7c570944b244986d2837ffa935ff8efd7e7f4543/.config/yadm/computer_bootstrap#L37-L103), corresponding package lists [here](https://github.com/purarue/dotfiles/tree/baf92d5fed00b87167b509f22d439c5e2075f63b/.config/yadm/package_lists).
 
 ## Specification
 

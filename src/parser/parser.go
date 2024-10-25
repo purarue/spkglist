@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/antlr/antlr4/runtime/Go/antlr"
-	"github.com/seanbreckenridge/spkglist/src/lexer"
+	"github.com/purarue/spkglist/src/lexer"
 )
 
 func ParseBuffer(r io.ReadCloser) (result []string, pErr error) {
